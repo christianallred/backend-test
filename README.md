@@ -10,9 +10,6 @@ You can use any framework or packages you like.
 - The second endpoint should allow the fetching of any row of that data by guid, or email. This endpoint should alwasy return as an array. 
 - The third endpoint should return the average, median, min, max, and sum of income for all rows with income values. You can return it as follows:
 
-### Bonus
-- Allow the second api (fetch) to grab multiple guids or emails at once. 
-
 ```
 {
     average: number
@@ -22,4 +19,9 @@ You can use any framework or packages you like.
     sum: number
 }
 ```
+
+
+### Bonus
+- Allow the second api (fetch) to grab multiple guids or emails at once. 
+
 
