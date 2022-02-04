@@ -20,6 +20,16 @@ You can use any framework or packages you like.
 }
 ```
 
+The expected values for each are listed below. 
+
+```
+Average: 152,218.21
+Median: 155,788.00
+Max: 249,925.00
+Min: 50,005.00
+Sum: 145,977,259.00
+```
+
 
 ### Bonus
 - Allow the second api (fetch) to grab multiple guids or emails at once. 
